@@ -133,13 +133,21 @@ def bicepcurl():
 def legextensions():
     # CODE FOR LEG EXTENSIONS HERE
 
+    return ("Done")
+
 @app.route('/lunges')
 def legextensions():
     # CODE FOR LEG EXTENSIONS HERE
 
+    return ("Done")
+
+
 @app.route('/pushup')
 def legextensions():
     # CODE FOR LEG EXTENSIONS HERE
+
+    return ("Done")
+
 
 # Running app
 if __name__ == '__main__':
